@@ -1,3 +1,7 @@
 two
 two
+<<<<<<< HEAD
 2
+=======
+dui
+>>>>>>> staging
